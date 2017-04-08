@@ -1,0 +1,5 @@
+LIST KEYS
+SET a 1 2 3
+SET b 1 2 3
+LIS KEYS
+BYE

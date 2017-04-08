@@ -1,0 +1,5 @@
+SET a 1 2 3
+SET b 3 4 5
+GET a
+GET b
+BYE

@@ -1,0 +1,5 @@
+SET a 4 3 5 2 1
+SORT a
+GET a
+SORT b
+BYE

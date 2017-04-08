@@ -1,0 +1,5 @@
+SET a 1 2 3
+REV a
+GET a
+REV b
+BYE

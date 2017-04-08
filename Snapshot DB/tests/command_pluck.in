@@ -1,0 +1,7 @@
+SET a 1 2 3
+GET a
+PLUCK a 2
+GET a
+PLUCK a 0
+PLUCK b 1
+BYE

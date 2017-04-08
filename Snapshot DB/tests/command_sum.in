@@ -1,0 +1,4 @@
+SET a 1 2 3
+SUM a
+SUM b
+BYE

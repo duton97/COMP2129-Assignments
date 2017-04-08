@@ -1,0 +1,7 @@
+SET a 1 2 3
+DEL a
+SET b 1 2 3
+DEL b
+SET c 1 2 3
+DEL c
+BYE

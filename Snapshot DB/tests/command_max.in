@@ -1,0 +1,4 @@
+SET a 3 4 5
+MAX a
+MAX b
+BYE

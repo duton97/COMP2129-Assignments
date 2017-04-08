@@ -1,0 +1,5 @@
+SET a 1 1 2 2 3 4 5 5
+UNIQ a
+GET a
+UNIQ b
+BYE

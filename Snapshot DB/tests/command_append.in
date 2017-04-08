@@ -1,0 +1,6 @@
+SET a 1 2 3
+GET a
+APPEND a 4 5
+GET a
+APPEND b
+BYE
